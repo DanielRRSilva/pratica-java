@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d7305fb-8400-4df5-81b3-3d6bf1c94461" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2nlBZToDA7EWIoLFuAOWAJupraQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Escritor.executor": "Run",
+    "Application.Leitor.executor": "Run",
+    "Application.ListaEstatica.executor": "Run",
+    "JUnit.AdicionaNoIndiceTest.executor": "Run",
+    "JUnit.AdicionaNoIndiceTest.testLerProdutos.executor": "Run",
+    "JUnit.All in java-assignment-template (1).executor": "Run",
+    "JUnit.All in java-assignment-template (2).executor": "Run",
+    "JUnit.All in java-assignment-template (3).executor": "Run",
+    "JUnit.All in java-assignment-template (4).executor": "Run",
+    "JUnit.All in java-assignment-template.executor": "Run",
+    "JUnit.GravaArquivoTest.executor": "Run",
+    "JUnit.GravaArquivoTest.testArquivoNaoCriado.executor": "Run",
+    "JUnit.GravaArquivoTest.testEscreverArquivo.executor": "Run",
+    "JUnit.ProvaPratica02Teste.testLerProdutos.executor": "Run",
+    "JUnit.ProvaPratica02Testes.executor": "Run",
+    "JUnit.RemoveParesTest.executor": "Run",
+    "JUnit.RemoveParesTest.testRemovePares.executor": "Run",
+    "JUnit.school.sptech in java-assignment-template.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/rosae/OneDrive/Documentos/Sptech/ED/ac02-pratica-ed-b-daniel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\miniguiti\Downloads\ac02-pratica-ed-completo-main\ac02-pratica-ed-completo-main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="school.sptech.gravacao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.school.sptech in java-assignment-template">
+    <configuration name="Escritor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="school.sptech.arquivo.Escritor" />
+      <module name="java-assignment-template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="school.sptech.arquivo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="school.sptech.arquivo.Leitor" />
+      <module name="java-assignment-template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="school.sptech.arquivo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in java-assignment-template (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-assignment-template" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in java-assignment-template" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-assignment-template" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="school.sptech in java-assignment-template" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-assignment-template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="school.sptech.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="school.sptech" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ac02-pratica-ed-completo-main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ac02-pratica-ed-completo-main" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.school.sptech in java-assignment-template" />
+        <item itemvalue="Application.Leitor" />
+        <item itemvalue="Application.Escritor" />
+        <item itemvalue="JUnit.All in java-assignment-template" />
+        <item itemvalue="JUnit.All in java-assignment-template (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d7305fb-8400-4df5-81b3-3d6bf1c94461" name="Changes" comment="" />
+      <created>1729537837794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729537837794</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/school/sptech/ProvaPratica02Teste.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
